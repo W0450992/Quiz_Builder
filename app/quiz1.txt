@@ -1,0 +1,11 @@
+This is the # of the latest Android version.:13:
+This is the # of the previous Android version.:12:
+This is the name of the first Android version named after sweets.:cupcake:
+This subfolder of app/ contains your app’s Java source code.:java:
+This subfolder of app/ contains all the resources of your app such as layout files, images, themes and strings:Resource:
+This is what Android calls what in other programming environments might be called ‘forms’ or ‘pages’ that the user interacts with.:Activity:
+An Android APK file has more in common with this type of file than an .exe file.:zip file:
+Android's kernel is based on this technology:Linux:
+The Android Open Source Project (AOSP) is led by this entity.:Google:
+The text that is displayed in an Android application should be stored in this file.:Strings.xml:
+

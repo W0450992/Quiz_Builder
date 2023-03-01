@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Builder</string>
+    <string name="buttonStart">Start</string>
+    <string name="txtEnterName">Please enter a name</string>
+    <string name="buttonOne">button1</string>
+    <string name="buttonTwo">button2</string>
+    <string name="buttonThree">button3</string>
+    <string name="buttonFour">button4</string>
+    <string name="txtQuestion">Question</string>
+    <string name="txtNameEnd">Name</string>
+    <string name="txtScore">100%</string>
+    <string name="buttonRestart">Restart</string>
+    <string name="txtEndRemarks">Your score is:</string>
+</resources>
